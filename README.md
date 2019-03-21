@@ -28,7 +28,9 @@ https://github.com/emoRaivis/MacMorpheus/releases/download/0.2/MacMorpheus.app.z
 ## Controls
 * **Enter** - Toggle fullscreen
 * **Space** - Play / Pause
-* **Arrows** - Skip backward / forward
+* **Arrows left/right** - Skip backward / forward (15 seconds)
+* **Arrows down/up** - Skip backward / forward (1 minute)
+* **TAB** - choose a random file in the same folder as selected video, and play it (with the same settings as original video)
 * **R** - Center view / reset orientation
 * **ESC** - Exit fullscreen / quit
 * ***Mouse drag*** - Look around
